@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Data/GIS Specialist, wannabe GIS Developer, Husband, over average Father
 
-![Ubuntu](https://img.shields.io/badge/Linux-red?logo=linux&logoColor=black) ![QGIS](https://img.shields.io/badge/-QGIS-grey?logo=qgis) ![python](https://img.shields.io/badge/-Python-black?logo=Python&color=blue&logoColor=ffd700) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-lightblue?style=flat-square&logo=docker)
+![Ubuntu](https://img.shields.io/badge/Linux-lightred?logo=linux&logoColor=black) ![QGIS](https://img.shields.io/badge/-QGIS-grey?logo=qgis) ![python](https://img.shields.io/badge/-Python-black?logo=Python&color=blue&logoColor=ffd700) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-lightblue?style=flat-square&logo=docker)
