@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Data/GIS Specialist, wannabe GIS Developer, Husband, over average Father
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![python](https://img.shields.io/badge/-Python-black?logo=Python&color=white)
