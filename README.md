@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Data/GIS Specialist, wannabe GIS Developer, Husband, over average Father
+Husband, over average Father, Data/GIS Specialist and Developer
 - 🔭 I’m currently working on cbm project in JRC - Joint Research Center in Ispra(VA) as Copernicus DIAS Support Consultant in the GTCAP group for the development of cloud-based solutions for Common Agriculture Policies (CAP) monitoring. My main tasks are related to the maintenance and development of the backend part of the product. See https://github.com/SimoParmeg/cbm 
 
 ### 📫 How to reach me: 
