@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Husband, over average Father, Data/GIS Specialist and Developer
-- 🔭 I’m currently working on cbm project in JRC - Joint Research Center in Ispra(VA) as Copernicus DIAS Support Consultant in the GTCAP group for the development of cloud-based solutions for Common Agriculture Policies (CAP) monitoring. My main tasks are related to the maintenance and development of the backend part of the product. See https://github.com/SimoParmeg/cbm 
+Spatial Data Management Expert, GIS Developer, Husband, over average Father.
+- 🔭 I’m currently working on cbm project in JRC - Joint Research Center in Ispra(VA) as Copernicus DIAS Consultant in the GTCAP group for the development of cloud-based solutions for Common Agriculture Policies (CAP) monitoring. My main tasks are related to the maintenance and development of the backend part of the product, with some data visualization and documentation production. See https://github.com/SimoParmeg/cbm 
 
 ### 📫 How to reach me: 
 [<img alt="linkedin" src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" style="max-width: 100%;" />](https://www.linkedin.com/in/simone-parmeggiani/)  [<img alt="telegram" src="https://img.shields.io/badge/-Telegram-lightblue?style=for-the-badge&logo=telegram" style="max-width: 100%;"/>](https://t.me/Strategies_Against_Architecture) [<img alt="gmail" src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail" style="max-width: 100%;"/>](mailto:parmeggiani.simone@gmail.com?subject=GitHub) [<img alt="resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" style="max-width: 100%;" />](https://drive.google.com/file/d/1IL1-SZtCqwZ5dJ-LNaWjUjUYYcNUx-t4/view?usp=sharing)
