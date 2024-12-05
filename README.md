@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 Spatial Data Management Expert, GIS Developer, Husband, over average Father.
 - 2022-ongoing: Gter Spa, Genova (GE), Spatial Data Developer 
 - Previous experiences:
-  - 2023: Agronica Spa, Cesena (CE), Cloud Spatial Data Developer
+  -  2024: VardaAG, Spatial Data Developer for ag tech enterprise. I helped the data team in the optimization and automation of the ETL process which loads soil data from different sources in an Elasticsearch DB.
+  -  2023: Agronica Spa, Cesena (CE), Cloud Spatial Data Developer
   -  2022: JRC - Joint Research Center, Ispra (VA), as Copernicus DIAS Consultant in the GTCAP group for the development of cloud-based solutions for Common Agriculture Policies (CAP) monitoring. My main tasks are related to the     
   maintenance and development of the backend part of the product, with some data visualization and documentation production. See https://github.com/SimoParmeg/cbm
   -  2021: HERA Spa, Bologna (BO), as Spatial Data Analyst and developer
